@@ -11,7 +11,7 @@ Link: <a href="https://todo-list-lunatic.herokuapp.com/">Todo-List</a>
     <li>express-         v4.17.1</li>
     <li>body-parser-     v1.19.0</li>
     <li>lodash-          v4.17.20</li>
-    <li>mongoose-        v5.10.17"</li>
+    <li>mongoose-        v5.10.17</li>
 </ul>
 
 ---
