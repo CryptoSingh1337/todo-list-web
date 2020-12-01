@@ -4,7 +4,7 @@ const dbHandling = require("./DB/dbHandling");
 const _ = require("lodash");
 
 const app = express();
-const url = "mongodb+srv://admin-saransh:admin-saransh-password@cluster0.msjrw.mongodb.net/todoListDB";
+const url = "mongodb+srv://**REMOVED**:**REMOVED**@cluster0.msjrw.mongodb.net/todoListDB";
 const port = 8080;
 
 const defaultItems = dbHandling.getDefaultItems();
