@@ -1,4 +1,4 @@
-# Blog Posting Web App
+# Todo-List Web App
 ### This is a simple Todo List web application.
 
 Runtime Platform: NodeJS<br>
